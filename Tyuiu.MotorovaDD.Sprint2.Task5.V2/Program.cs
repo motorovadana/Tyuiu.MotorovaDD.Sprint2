@@ -30,6 +30,7 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task5.V2
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Введите номер месяца: ");
+
             int numMouth = Convert.ToInt32(Console.ReadLine());
             string res;
             if ((numMouth < 1) || (numMouth > 12)) res = "Введено неверное значение!";

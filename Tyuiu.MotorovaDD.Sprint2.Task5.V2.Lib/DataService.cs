@@ -12,6 +12,7 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task5.V2.Lib
         public string FindMonthSeason(int value)
         {
             string res;
+
             switch (value)
             {
                 case 1:
