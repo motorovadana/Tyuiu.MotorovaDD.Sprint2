@@ -14,6 +14,8 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task6.V5
 
             DataService ds = new DataService();
 
+
+
             Console.Title = "Спринт #2| Выполнил: Моторова Д. Д. | СМАРТб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");

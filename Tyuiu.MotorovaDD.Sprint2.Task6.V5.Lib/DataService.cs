@@ -14,6 +14,8 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task6.V5.Lib
             int res;
             switch (value)
             {
+
+
                 case 6: return "Шестерка";
                 case 7: return "Семерка";
                 case 8: return "Восьмерка";

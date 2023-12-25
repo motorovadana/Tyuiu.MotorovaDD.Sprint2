@@ -7,6 +7,8 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task6.V5.Test
     public class DataServiceTest
     {
         [TestMethod]
+
+
         public void ValidCardValue()
         {
             DataService ds = new DataService();
