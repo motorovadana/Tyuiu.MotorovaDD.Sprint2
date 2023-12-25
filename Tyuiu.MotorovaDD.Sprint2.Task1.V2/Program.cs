@@ -51,12 +51,7 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task1.V2
                 Console.WriteLine(res[i]);
             }
 
-
             Console.ReadKey();
-
-
-
-
         }
 
     }
