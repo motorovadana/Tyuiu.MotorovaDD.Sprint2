@@ -20,11 +20,8 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task2.V11
 
             Console.WriteLine("Введите значение y");
             int y = Convert.ToInt32(Console.ReadLine());
-
-
             DataService ds = new DataService();
             bool res = ds.CheckDotInShadedArea(x, y);
-
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                               *");
             Console.WriteLine("****************************************************************************");

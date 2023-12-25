@@ -18,6 +18,8 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task2.V11.Test
             bool wait = true;
 
             Assert.AreEqual(wait, res);
+
+
         }
     }
 }
