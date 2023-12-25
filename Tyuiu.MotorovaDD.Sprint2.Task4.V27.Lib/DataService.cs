@@ -14,5 +14,6 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task4.V27.Lib
             double z = x - 10 > y + 2 ? (x * Math.Pow((y + 2) / (x - 1), x)) : Math.Pow(y, 2) - (2 / x);
             return Math.Round(z, 3);
         }
+
     }
 }

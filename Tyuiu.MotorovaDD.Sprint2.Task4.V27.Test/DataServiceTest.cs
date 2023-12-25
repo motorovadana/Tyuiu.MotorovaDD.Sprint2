@@ -25,6 +25,7 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task4.V27.Test
                 double y = 2;
                 double res = ds.Calculate(x, y);
                 double wait = 3;
+
                 Assert.AreEqual(wait, res);
 
             }
