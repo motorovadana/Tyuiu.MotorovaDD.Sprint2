@@ -5,7 +5,7 @@ using Tyuiu.MotorovaDD.Sprint2.Task7.V5.Lib;
 namespace Tyuiu.MotorovaDD.Sprint2.Task7.V5.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class DataServiceTest
     {
         [TestMethod]
     

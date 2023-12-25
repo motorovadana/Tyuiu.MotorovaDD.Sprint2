@@ -10,6 +10,7 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task7.V5
     class Program
     {
         static void Main(string[] args)
+
         {
             DataService ds = new DataService();
 
