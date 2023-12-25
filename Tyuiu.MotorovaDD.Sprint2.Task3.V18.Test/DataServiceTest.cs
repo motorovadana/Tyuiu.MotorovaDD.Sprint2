@@ -18,8 +18,6 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task3.V18.Test
                 double wait = 0.75;
                 Assert.AreEqual(wait, res);
             }
-
-            
             {
                 DataService ds = new DataService();
                 double x = 1;

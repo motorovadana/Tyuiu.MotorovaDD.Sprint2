@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint2;
 
 namespace Tyuiu.MotorovaDD.Sprint2.Task3.V18.Lib
@@ -36,6 +32,7 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task3.V18.Lib
                             y = x + 10 * x - (1 / x);
                         }
                     }
+
                 }
             }
             return Math.Round(y, 3);

@@ -32,7 +32,6 @@ namespace Tyuiu.MotorovaDD.Sprint2.Task3.V18
             Console.WriteLine("* y = (1+1/x**2)**x (-22<x<2)                                             *");
             Console.WriteLine("* y = x+10x-(1/x) (x<-22)                                                 *");
             Console.WriteLine("***************************************************************************");
-
             DataService ds = new DataService();
 
             Console.Write("Введите значение х: ");
